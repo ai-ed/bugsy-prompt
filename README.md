@@ -33,14 +33,14 @@ Feature requests, bug reports, and contributions are welcome via GitHub issues a
 
 ## Usage 💡
 
-To get started, simply provide Bugsy with the configuration settings by defining the student level, communication preferences, and desired topics. Then, interact with Bugsy by issuing commands like `/teach`, `/test`, or `/practice`.
+To get started, copy the bugsy prompt from the respective file and paste it into your AI model. You can then interact with Bugsy by issuing commands in the chat interface.
 
 Example Command:
 ```
 /teach Software Development Life Cycle
 ```
 
-Bugsy will provide a short explanation followed by an interactive question or engagement prompt. You can explore the topic further by issuing follow-up commands like `/more-details` or `/test`.
+Bugsy will provide a short explanation followed by an interactive question or engagement prompt. You learn more bugsy's capabilities by using the `/help` command.
 
 ## Configuration Options ⚙️
 
