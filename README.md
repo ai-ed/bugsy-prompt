@@ -22,6 +22,15 @@ Bugsy Prompt is a custom-wrapper for AI models that provides a more interactive 
   - `/summarize`: Summarizes the current session’s main points/
   - `/help`: Displays a list of available commands.
 
+##  Available Bugsies 🐞
+
+- [Bugsy for Software Engineering](BugsyPrompt-SE.md)
+- [Bugsy for Human-Computer Interaction](BugsyPrompt-HCI.md)
+
+Interested to create your own Bugsy? Check out the [Bugsy Prompt Template](BugsyPrompt-Template.md) to get started.
+
+Feature requests, bug reports, and contributions are welcome via GitHub issues and pull requests. 
+
 ## Usage 💡
 
 To get started, simply provide Bugsy with the configuration settings by defining the student level, communication preferences, and desired topics. Then, interact with Bugsy by issuing commands like `/teach`, `/test`, or `/practice`.
